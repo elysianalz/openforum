@@ -1,0 +1,16 @@
+#post-form-container, #post-container {
+  width: 66%;
+}
+
+#post-container {
+  margin-top: 30px;
+}
+
+#posts {
+  width: 66%;
+  margin-top: 50px;
+}
+
+#home-link, #make-link {
+  color: white;
+}
